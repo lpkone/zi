@@ -12,7 +12,8 @@ title: Главная
 
 ---
 ## Полезные ссылки
-[Таблица 3их проф Asgard Legend](https://docs.google.com/spreadsheets/d/1OmQE-boXf21C0RhKFlTc5TIguWhZtbuewmAtyh07QKU/edit#gid=691235007)
+[Leveling Guide](https://www.asgardlegend.com/wiki/index.php/Leveling_Guide)
+[Таблица 3их проф](https://docs.google.com/spreadsheets/d/1OmQE-boXf21C0RhKFlTc5TIguWhZtbuewmAtyh07QKU/edit#gid=691235007)
 
 ### Как общаться в чате кириллицией?
 В папке с игрой необходимо запустить Setup.exe, и в вкладке ROExt выбрать кодировку 1251 (ANSI - кириллица)
