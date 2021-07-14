@@ -1,0 +1,11 @@
+title: Zi
+remote_theme: pmarsceill/just-the-docs
+# color_scheme: "dark"
+search_enabled: false
+url: "https://zi.lpk.one"
+footer_content: "Copyright &copy; 2019 Zizyazium. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+plugins:
+  - jekyll-remote-theme
+aux_links:
+  "GitHub":
+    - "https://github.com/lpkone/lost-ark-notes"
